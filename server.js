@@ -2,7 +2,6 @@ const express=require('express');
 const hbs=require('hbs');
 const fs=require('fs');
 var app=express();
-
 hbs.registerPartials(__dirname + '/views/partials');
 
 app.set('view engine','hbs');
@@ -17,6 +16,14 @@ var now=new Date().toString();
   })
   next();
 });
+<<<<<<< HEAD
+=======
+
+// app.use((req,res,next)=>{
+// res.render('maintenance.hbs');	
+// });
+
+>>>>>>> 0c9330a1d656e69f05c3d1727687dcb6d31a3fd3
 hbs.registerHelper('getCurrentYear',()=>{
   return new Date().getFullYear()
 });
@@ -38,6 +45,13 @@ app.get('/',(req,res)=>
     pageMessage:"Welcome to the website"
   });
   
+});
+
+app.get('/projects',(req,res)=>
+        {
+  res.render('projects.hbs',{
+    pageTitle:'Projects'
+  });
 });
 
 app.listen(3000,()=>{

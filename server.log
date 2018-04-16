@@ -2,3 +2,45 @@ Tue Feb 20 2018 01:53:17 GMT-0500 (EST): GET /about
 Tue Feb 20 2018 01:53:37 GMT-0500 (EST): GET /about
 Tue Feb 20 2018 01:53:42 GMT-0500 (EST): GET /
 Tue Feb 20 2018 01:53:47 GMT-0500 (EST): GET /about
+<<<<<<< HEAD
+=======
+Tue Mar 13 2018 06:31:50 GMT-0400 (EDT): GET /
+Tue Mar 13 2018 06:31:59 GMT-0400 (EDT): GET /getSentiments
+Tue Mar 13 2018 06:32:42 GMT-0400 (EDT): GET /getSentiments
+Tue Mar 13 2018 06:37:03 GMT-0400 (EDT): GET /getSentiments
+Tue Mar 13 2018 06:39:35 GMT-0400 (EDT): GET /getSentiments
+Tue Mar 13 2018 06:40:50 GMT-0400 (EDT): GET /getSentiments
+Tue Mar 13 2018 06:41:09 GMT-0400 (EDT): GET /getSentiments
+Tue Mar 13 2018 06:41:32 GMT-0400 (EDT): GET /getSentiments
+Tue Mar 13 2018 06:42:05 GMT-0400 (EDT): GET /getSentiments
+Tue Mar 13 2018 06:43:52 GMT-0400 (EDT): GET /getSentiments
+Tue Mar 13 2018 06:44:33 GMT-0400 (EDT): GET /getSentiments
+Tue Mar 13 2018 06:45:21 GMT-0400 (EDT): GET /getSentiments
+Tue Mar 13 2018 06:45:53 GMT-0400 (EDT): GET /getSentiments
+Tue Mar 13 2018 06:47:16 GMT-0400 (EDT): GET /getSentiments
+Tue Mar 13 2018 07:39:46 GMT-0400 (EDT): GET /getSentiments
+Tue Mar 13 2018 08:13:16 GMT-0400 (EDT): GET /getSentiments
+Tue Mar 13 2018 08:15:24 GMT-0400 (EDT): GET /getSentiments
+Tue Mar 13 2018 08:17:17 GMT-0400 (EDT): GET /getSentiments
+Tue Mar 13 2018 08:18:16 GMT-0400 (EDT): GET /getSentiments
+Tue Mar 13 2018 08:18:38 GMT-0400 (EDT): GET /getSentiments
+Tue Mar 13 2018 08:19:35 GMT-0400 (EDT): GET /getSentiments
+Tue Mar 13 2018 08:21:14 GMT-0400 (EDT): GET /getSentiments
+Wed Apr 04 2018 06:03:07 GMT-0400 (EDT): GET /
+Wed Apr 04 2018 06:03:08 GMT-0400 (EDT): GET /favicon.ico
+Wed Apr 04 2018 06:03:18 GMT-0400 (EDT): GET /about
+Wed Apr 04 2018 06:03:21 GMT-0400 (EDT): GET /
+Wed Apr 04 2018 06:03:23 GMT-0400 (EDT): GET /about
+Wed Apr 04 2018 06:04:27 GMT-0400 (EDT): GET /about
+Wed Apr 04 2018 06:06:49 GMT-0400 (EDT): GET /about
+Wed Apr 04 2018 06:13:13 GMT-0400 (EDT): GET /about
+Wed Apr 04 2018 06:13:27 GMT-0400 (EDT): GET /home
+Wed Apr 04 2018 06:13:30 GMT-0400 (EDT): GET /
+Wed Apr 04 2018 08:18:19 GMT-0400 (EDT): GET /
+Wed Apr 04 2018 08:18:27 GMT-0400 (EDT): GET /projects
+Wed Apr 04 2018 08:19:07 GMT-0400 (EDT): GET /
+Wed Apr 04 2018 08:19:10 GMT-0400 (EDT): GET /about
+Wed Apr 04 2018 08:19:12 GMT-0400 (EDT): GET /projects
+Wed Apr 04 2018 08:19:17 GMT-0400 (EDT): GET /
+Wed Apr 04 2018 08:25:34 GMT-0400 (EDT): GET /
+>>>>>>> 0c9330a1d656e69f05c3d1727687dcb6d31a3fd3
